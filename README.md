@@ -17,6 +17,7 @@ I also have a bunch of started projects that I really love:
 
 - **Gravel Launcher** - C - A _launcher_ for my programming language
 - **PacsfurySpace** - Web Frontend - A private, fast, vanilla workspace
+- **Abbocati** - GdScript (Godot Engine) - Endless runner game. _Fun fact: in italian, "avvocati" means "lawyer", not related to the game!_
 
 I'm also working on my (third) virtual computer, this time in Rust.
 
