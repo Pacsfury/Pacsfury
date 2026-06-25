@@ -1,16 +1,37 @@
 ## Hi there 👋
 
-<!--
-**Pacsfury/Pacsfury** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Pacsfury, a passionate teen programmer.
 
-Here are some ideas to get you started:
+## What I Love
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I love creating my own systems so they fit my needs. I like making and designing systems, languages, flows and more. 
+
+## My projects
+
+My actual two favourite finished projects are:
+
+- **RUBIDUNG** - Java - A CLI memory game
+- **CryptoLang** - Python -A DSL for data managing
+
+I also have a bunch of started projects that I really love:
+
+- **Gravel Launcher** - C - A _launcher_ for my programming language
+- **PacsfurySpace** - Web Frontend - A private, fast, vanilla workspace
+
+I'm also working on my (third) virtual computer, this time in Rust.
+
+## My Stats
+### Top Used Programming Languages!
+![My Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Pacsfury&layout=compact&theme=radical&langs_count=10)
+### My Github Stats!
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=Pacsfury&show_icons=true&theme=radical)
+### My Streak!
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Pacsfury&theme=radical)
+
+## What I'm Learning
+
+I really love learning new things, even if not related to programming.
+
+Right now, I'm learning more about low level, and Rust and Go. I'm also making games in Lua (Löve) and Godot.
+
+I'm also learning more C++, and this summer I want to build something big in there...
