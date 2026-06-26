@@ -39,6 +39,14 @@ I'm also working on my (third) virtual computer, this time in Rust.
 ### My Streak!
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Pacsfury&theme=radical)
 
+## Custom Hardware & Virtual Computers
+
+I love building custom computer architectures from scratch inside unorthodox environments:
+
+* **16-bit CPU in Google Sheets:** A fully functional async-clock virtual machine built entirely with spreadsheet logic (No external scripts). Features 16kb RAM, 128kb HDD, a custom 400-bit GPU, MathPU/BitwisePU, Function Stack (FST), and a basic Character Input/Output System (CIOS).
+* **8-bit CPU in Scratch:** An 8-bit architecture featuring custom functions (with FST) and a 3400+ pixel matrix GPU. Powered by a self-made assembler and a high-level compiler written in Python.
+* **X-Bit in Rust** Coming soon...
+
 ## What I'm Learning
 
 ![Rust](https://img.shields.io/badge/Rust-D93735?style=for-the-badge&logo=rust&logoColor=white)
