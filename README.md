@@ -35,7 +35,7 @@ I'm also working on my (third) virtual computer, this time in Rust.
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![GDScript](https://img.shields.io/badge/GDScript-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white)
 ### My Github Stats!
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=Pacsfury&show_icons=true&theme=radical)
+![My GitHub Stats](https://github-readme-stats.shion.dev/api?username=Pacsfury&show_icons=true&theme=radical)
 ### My Streak!
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Pacsfury&theme=radical)
 
