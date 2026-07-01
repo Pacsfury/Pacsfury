@@ -49,12 +49,13 @@ I love building custom computer architectures from scratch inside unorthodox env
 * **32-bit, Arduino (C++)** In process
 
 ## Contributions
-<sub>Where I Helped</sub>
+<sub>Open Source Contributions</sub>
 * **Rux Programming Language** - C++ - Validate types for if, while, do-while
 * **Kanadojo** - TS - Add various content to the web
 * **Azin Programming Language** - C++ - Add tokens and help designing the language
 * **ACGS-lite** - Python - Documentation
 * **ABS engine** - Python - Help with multithreading (in process)
+And other privates repos mostlt for fun and learning!
 
 ## What I'm Learning
 
