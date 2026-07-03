@@ -23,7 +23,7 @@ I'm also working on my (third) virtual computer, this time in Rust.
 
 ## My Stats
 ### Top Used Programming Languages!
-![My Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Pacsfury&layout=compact&theme=radical&langs_count=10)
+![My Languages](https://github-readme-stats.shion.dev/api/top-langs/?username=Pacsfury&layout=compact&theme=radical&langs_count=10)
 
 ---
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
