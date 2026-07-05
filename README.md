@@ -57,7 +57,8 @@ I love building custom computer architectures from scratch inside unorthodox env
 * **Azin Programming Language** - C++ - Add tokens and help designing the language
 * **ACGS-lite** - Python - Documentation
 * **ABS engine** - Python - Help with multithreading (in process)
-And other privates repos mostlt for fun and learning!
+
+And other privates repos mostly for fun and learning!
 
 ## What I'm Learning
 
