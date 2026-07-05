@@ -34,6 +34,8 @@ I'm also working on my (third) virtual computer, this time in Rust.
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![GDScript](https://img.shields.io/badge/GDScript-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white)
+![Lua](https://img.shields.io/badge/Lua-478CBF?style=for-the-badge&logo=Lua&logoColor=white)
+![Go](https://img.shields.io/badge/Go-478CBF?style=for-the-badge&logo=Go&logoColor=white)
 ### My Github Stats!
 ![My GitHub Stats](https://github-readme-stats.shion.dev/api?username=Pacsfury&show_icons=true&theme=radical)
 ### My Streak!
