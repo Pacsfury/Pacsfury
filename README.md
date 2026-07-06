@@ -12,10 +12,11 @@ My actual two favourite finished projects are:
 
 - **RUBIDUNG** - Java - A CLI memory game
 - **CryptoLang** - Python -A DSL for data managing
-
+- **Gravel Launcher** - C - A _launcher_ for my programming language (_Mid-done_)
+- 
 I also have a bunch of started projects that I really love:
 
-- **Gravel Launcher** - C - A _launcher_ for my programming language
+- **NetworkLib** - Go (backend), multiple future clients - A easy way to make online games and tools
 - **PacsfurySpace** - Web Frontend - A private, fast, vanilla workspace
 - **Abbocati** - GdScript (Godot Engine) - Endless runner game. _Fun fact: in italian, "avvocati" means "lawyer", not related to the game!_
 
