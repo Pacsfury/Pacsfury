@@ -13,7 +13,7 @@ My actual two favourite finished projects are:
 - **RUBIDUNG** - Java - A CLI memory game
 - **CryptoLang** - Python -A DSL for data managing
 - **Gravel Launcher** - C - A _launcher_ for my programming language (_Mid-done_)
-- 
+
 I also have a bunch of started projects that I really love:
 
 - **NetworkLib** - Go (backend), multiple future clients - A easy way to make online games and tools
