@@ -40,7 +40,7 @@ I'm also working on my (third) virtual computer, this time in Rust.
 ### My Github Stats!
 ![My GitHub Stats](https://github-readme-stats.shion.dev/api?username=Pacsfury&show_icons=true&theme=radical)
 ### My Streak!
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Pacsfury&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.shion.dev/?user=Pacsfury&theme=radical)
 
 ## Custom Hardware & Virtual Computers
 
