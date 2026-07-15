@@ -16,7 +16,7 @@ My actual two favourite finished projects are:
 
 I also have a bunch of started projects that I really love:
 
-- **NetworkLib** - Go (backend), multiple future clients - A easy way to make online games and tools
+- **NetworkLib** - Go (backend), multiple future clients - A easy way to make online games and tools (pretty usable)
 - **PacsfurySpace** - Web Frontend - A private, fast, vanilla workspace
 - **Abbocati** - GdScript (Godot Engine) - Endless runner game. _Fun fact: in italian, "avvocati" means "lawyer", not related to the game!_
 
