@@ -54,9 +54,10 @@ I love building custom computer architectures from scratch inside unorthodox env
 <sub>Open Source Contributions</sub>
 * **Rux Programming Language** - C++ - Validate types for if, while, do-while
 * **Kanadojo** - TS - Add various content to the web
-* **Azin Programming Language** - C++ - Add tokens and help designing the language
+* **Azin Programming Language** - C++, later Go - Add tokens and help designing the language, optimize
 * **ACGS-lite** - Python - Documentation
 * **ABS engine** - Python - Help with multithreading (in process)
+* **rl-lang** - Rust - More cases for autocomoletion for vscode extension
 
 
 And other privates repos mostly for fun and learning!
