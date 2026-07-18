@@ -73,4 +73,4 @@ I really love learning new things, even if not related to programming.
 
 Right now, I'm learning more about low level, and Rust and Go. I'm also making games in Lua (Löve) and Godot.
 
-I'm also learning more C++, and this summer I want to build something big in there...
+I'm also learning more C++.
