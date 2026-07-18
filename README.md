@@ -58,7 +58,7 @@ I love building custom computer architectures from scratch inside unorthodox env
 * **Azin Programming Language** - C++, later Go - Add tokens and help designing the language, optimize
 * **ACGS-lite** - Python - Documentation
 * **ABS engine** - Python - Help with multithreading (in process)
-* **rl-lang** - Rust - More cases for autocomoletion for vscode extension
+* **rl-lang** - Rust - More cases for autocompletion for vscode extension
 
 
 And other privates repos mostly for fun and learning!
