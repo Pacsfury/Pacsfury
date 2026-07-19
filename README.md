@@ -8,7 +8,7 @@ I love creating my own systems so they fit my needs. I like making and designing
 
 ## My projects
 
-My actual two favourite finished projects are:
+My actual three favourite finished projects are:
 
 - **RUBIDUNG** - Java - A CLI memory game
 - **CryptoLang** - Python -A DSL for data managing
