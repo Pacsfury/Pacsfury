@@ -37,6 +37,7 @@ I'm also working on my (third) virtual computer, this time in Rust.
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=Go&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-D93735?style=for-the-badge&logo=rust&logoColor=white)
 ![LISP](https://img.shields.io/badge/Lisp-3fb68b?style=for-the-badge&logo=commonlisp&logoColor=white)
 ### My Github Stats!
 ![My GitHub Stats](https://github-readme-stats.shion.dev/api?username=Pacsfury&show_icons=true&theme=radical)
