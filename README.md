@@ -48,7 +48,7 @@ I love building custom computer architectures from scratch inside unorthodox env
 
 * **16-bit CPU in Google Sheets:** A fully functional async-clock virtual machine built entirely with spreadsheet logic (No external scripts). Features 16kb RAM, 128kb HDD, a custom 400-bit GPU, MathPU/BitwisePU, Function Stack (FST), and a basic Character Input/Output System (CIOS).
 * **8-bit CPU in Scratch:** An 8-bit architecture featuring custom functions (with FST) and a 3400+ pixel matrix GPU. Powered by a self-made assembler and a high-level compiler written in Python.
-* **X-Bit in Rust** Coming soon...
+* **16-Bit in Rust** Developing another basic CPU
 * **32-bit, Arduino (C++)** In process
 
 ## Contributions
