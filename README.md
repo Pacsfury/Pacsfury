@@ -45,6 +45,10 @@ I also have a bunch of active projects that I really love:
 ### My Streak!
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Pacsfury&show_icons=true&theme=radical)](https://git.io/streak-stats)
 
+### Contribution Graph!
+
+![Graph](https://github-readme-activity-graph.vercel.app/graph?username=Pacsfury&theme=radical&custom_title=Contribution%20Graph)
+
 ## Custom Hardware & Virtual Computers
 
 I love building custom computer architectures from scratch inside unorthodox environments:
