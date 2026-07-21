@@ -4,23 +4,22 @@ I'm Pacsfury, a passionate teen programmer.
 
 ## What I Love
 
-I love creating my own systems so they fit my needs. I like making and designing systems, languages, flows and more. 
+I love creating my own systems so they fit my needs. I like making and designing systems, languages, execution flows, and system architectures. 
 
-## My projects
+## My Projects
 
-My actual three favourite finished projects are:
+My top three favorite completed projects are:
 
 - **RUBIDUNG** - Java - A CLI memory game
-- **CryptoLang** - Python -A DSL for data managing
-- **Gravel Launcher** - C - A _launcher_ for my programming language (_Mid-done_)
+- **CryptoLang** - Python - A DSL for data management
+- **Gravel Launcher** - C - The core compiler and CLI toolchain for the Gravel programming language
 
-I also have a bunch of started projects that I really love:
+I also have a bunch of active projects that I really love:
 
-- **NetworkLib** - Go (backend), multiple future clients - A easy way to make online games and tools (pretty usable)
-- **PacsfurySpace** - Web Frontend - A private, fast, vanilla workspace
-- **Abbocati** - GdScript (Godot Engine) - Endless runner game. _Fun fact: in italian, "avvocati" means "lawyer", not related to the game!_
-
-I'm also working on my (third) virtual computer, this time in Rust.
+- **NetworkLib** - Go (backend), multiple future clients - An easy way to develop online games and tools (highly usable)
+- **PacsfurySpace** - Web Frontend - A private, fast, vanilla workspace for daily documents
+- **Abbocati** - GDScript (Godot Engine) - Endless runner game. *Fun fact: In Italian, "avvocati" means "lawyers", which is completely unrelated to the game!*
+- **DuckCpu** - Rust - A basic and lightweight CPU emulator implementing the custom P16b architecture 
 
 ## My Stats
 ### Top Used Programming Languages!
@@ -39,30 +38,33 @@ I'm also working on my (third) virtual computer, this time in Rust.
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-D93735?style=for-the-badge&logo=rust&logoColor=white)
 ![LISP](https://img.shields.io/badge/Lisp-3fb68b?style=for-the-badge&logo=commonlisp&logoColor=white)
-### My Github Stats!
+
+### My GitHub Stats!
 ![My GitHub Stats](https://github-readme-stats.shion.dev/api?username=Pacsfury&show_icons=true&theme=radical)
+
 ### My Streak!
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Pacsfury&show_icons=true&theme=radical)](https://git.io/streak-stats)
+
 ## Custom Hardware & Virtual Computers
 
 I love building custom computer architectures from scratch inside unorthodox environments:
 
-* **16-bit CPU in Google Sheets:** A fully functional async-clock virtual machine built entirely with spreadsheet logic (No external scripts). Features 16kb RAM, 128kb HDD, a custom 400-bit GPU, MathPU/BitwisePU, Function Stack (FST), and a basic Character Input/Output System (CIOS).
+* **16-bit CPU in Google Sheets:** A fully functional async-clock virtual machine built entirely with spreadsheet logic (no external scripts). Features 16kb RAM, 128kb HDD, a custom 400-bit GPU, MathPU/BitwisePU, Function Stack (FST), and a basic Character Input/Output System (CIOS).
 * **8-bit CPU in Scratch:** An 8-bit architecture featuring custom functions (with FST) and a 3400+ pixel matrix GPU. Powered by a self-made assembler and a high-level compiler written in Python.
-* **16-Bit in Rust** Developing another basic CPU
-* **32-bit, Arduino (C++)** In process
+* **DuckCpu (16-bit Emulator in Rust):** A custom P16b architecture featuring internal RAM, 4 registers, and 256 virtual I/O ports, still in process.
+* **32-bit CPU in Arduino (C++):** A hardware-targeted custom architecture design (Work in progress).
 
 ## Contributions
 <sub>Open Source Contributions</sub>
-* **Rux Programming Language** - C++ - Validate types for if, while, do-while
-* **Kanadojo** - TS - Add various content to the web
-* **Azin Programming Language** - C++, later Go - Add tokens and help designing the language, optimize
-* **ACGS-lite** - Python - Documentation
-* **ABS engine** - Python - Help with multithreading (in process)
-* **rl-lang** - Rust - More cases for autocompletion for vscode extension
 
+* **Rux Programming Language** - C++ - Validated types for `if`, `while`, and `do-while` loops
+* **Kanadojo** - TS - Added learning content and core platform features
+* **Azin Programming Language** - C++ / Go - Added tokens, optimized execution, and assisted with language design
+* **ACGS-lite** - Python - Wrote technical documentation
+* **ABS engine** - Python - Assisted with core multithreading implementation (In progress)
+* **rl-lang** - Rust - Added autocompletion edge cases for the VS Code extension
 
-And other privates repos mostly for fun and learning!
+And other private repositories mostly for fun, experimentation, and deep-dive learning!
 
 ## What I'm Learning
 
@@ -70,8 +72,4 @@ And other privates repos mostly for fun and learning!
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
 
-I really love learning new things, even if not related to programming.
-
-Right now, I'm learning more about low level, and Rust and Go. I'm also making games in Lua (Löve) and Godot.
-
-I'm also learning more C++.
+I really love learning new things, even outside of computer science. Right now, I am deep-diving into low-level systems programming, mastering Rust and Go, building games with Lua (Löve2D) and Godot, and sharpening my advanced C++ skills.
