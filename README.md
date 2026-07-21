@@ -41,7 +41,7 @@ I'm also working on my (third) virtual computer, this time in Rust.
 ### My Github Stats!
 ![My GitHub Stats](https://github-readme-stats.shion.dev/api?username=Pacsfury&show_icons=true&theme=radical)
 ### My Streak!
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Pacsfury&theme=radical)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Pacsfury)](https://git.io/streak-stats)
 ## Custom Hardware & Virtual Computers
 
 I love building custom computer architectures from scratch inside unorthodox environments:
