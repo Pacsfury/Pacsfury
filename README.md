@@ -67,6 +67,7 @@ I love building custom computer architectures from scratch inside unorthodox env
 * **ACGS-lite** - Python - Wrote technical documentation
 * **ABS engine** - Python - Assisted with core multithreading implementation (In progress)
 * **rl-lang** - Rust - Added autocompletion edge cases for the VS Code extension
+* **tuiLibGo** - C++, Go - Added issue and PR templates
 
 And other private repositories mostly for fun, experimentation, and deep-dive learning!
 
