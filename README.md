@@ -65,7 +65,7 @@ I love building custom computer architectures from scratch inside unorthodox env
 * **Kanadojo** - TS - Added learning content and core platform features
 * **Azin Programming Language** - C++ / Go - Added tokens, optimized execution, and assisted with language design
 * **ACGS-lite** - Python - Wrote technical documentation
-* **ABS engine** - Python - Assisted with core multithreading implementation (In progress)
+* **ABS engine** - Python - Assisted with core multithreading implementation (In progress) and optimizations
 * **rl-lang** - Rust - Added autocompletion edge cases for the VS Code extension
 * **tuiLibGo** - C++, Go - Added issue and PR templates
 
