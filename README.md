@@ -79,3 +79,5 @@ And other private repositories mostly for fun, experimentation, and deep-dive le
 ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
 
 I really love learning new things, even outside of computer science. Right now, I am deep-diving into low-level systems programming, mastering Rust and Go, building games with Lua (Löve2D) and Godot, and sharpening my advanced C++ skills.
+
+I'm now also learning more about source control tools and game engines, as I genuinely think they are both really interesting.
