@@ -24,6 +24,7 @@ I also have a bunch of active projects that I really love:
 ## My Stats
 ### Top Used Programming Languages!
 ![My Languages](https://github-readme-stats.shion.dev/api/top-langs/?username=Pacsfury&layout=compact&theme=radical&langs_count=20)
+<img src="https://github-readme-stats-seven-black-76.vercel.app/api/top-langs/?username=Pacsfury&theme=radical&langs_count=5&custom_title=Top5!"/>
 
 ---
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
