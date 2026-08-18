@@ -60,8 +60,6 @@ flowchart TD
 	Families.DATATOOLS(Data Tools) --> IS:TOOL
 	LISP.COMPRESSOR[Compressor <WIP>] --> Families.DATATOOLS(Data Tools)
 	KT.TypeTransform[TypeTransform <WIP>] --> Families.DATATOOLS
-	Families.DATATOOLS --> IS:TOOL
-	MULTIPLE.GAMEJAMS[Game Jams] --> IS:GAME
 	RS.DuckCPU[Duck CPU] --> Families.ComputerInternals(Computer Internals)
 	CPP.ManaGame[Mana Game] --> IS:GAME
 	
