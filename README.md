@@ -21,6 +21,52 @@ I also have a bunch of active projects that I really love:
 - [**Abbocati**](https://github.com/Pacsfury/Abbocati) - GDScript (Godot Engine) - Endless runner game. *Fun fact: In Italian, "avvocati" means "lawyers", which is completely unrelated to the game!*
 - [**DuckCpu**](https://github.com/Pacsfury/DuckCpu) - Rust - A basic and lightweight CPU emulator implementing the custom P16b architecture
 
+### Project Map!
+```mermaid
+flowchart TD
+	C.gravel[Gravel Launcher] --> Families.GRAVEL(Gravel Family)
+	CPP.salt[Salt Scripting] --> Families.GRAVEL(Gravel Family)
+	PY.flint[Flint Queries] --> Families.GRAVEL(Gravel Family)
+	JS.sand[Sand Markup] --> Families.GRAVEL(Gravel Family)
+	Families.GRAVEL(Gravel Family) --> IS:LANG[(Programming Languages)]
+	CPP.BFtools[Brainfuck Tools] --> IS:LANG
+	CPP.Flux[Flux Language] --> IS:LANG
+	PY.CryptoLang[CryptoLang DSL] --> IS:LANG
+	GD.Abbocati[Abbocati] --> IS:GAME[(Games)]
+	LUA.Rubidung[RubidungLua] --> Families.RUBIDUNG(Rubidung)
+	JAVA.Rubidung[RubidungJava] --> Families.RUBIDUNG(Rubidung)
+	CPP.Rubidung[RubidungCpp] --> Families.RUBIDUNG(Rubidung)
+	Families.RUBIDUNG(Rubidung) --> IS:GAME
+	JS.Text[Text Processor] --> Families.WEBTOOLS(Web Tools)
+	JS.Board[Board Processor] --> Families.WEBTOOLS(Web Tools)
+	JS.Lists[List Processor] --> Families.WEBTOOLS(Web tools)
+	JS.SPACE[PacsfurySpace] --> Families.WEBTOOLS(Web tools)
+	C.CLI-NOTES[CLI Notes] --> Families.CLITOOLS(CLI tools)
+	CPP.CLI-FILEENCODING[CLI fileencoding <WIP>] --> Families.CLITOOLS(CLI tools)
+	CPP.YARC[YARC] --> Families.CLITOOLS
+	GD.CODEEDIT[Code Edit] --> IS:TOOL[(Tools)]
+	Families.CLITOOLS --> IS:TOOL
+	Families.WEBTOOLS --> IS:TOOL
+	CPP.GAMETOOLS[Game Tools] --> Families.GAMETOOLS(Game Internal Tools)
+	GO.NetworkLib[NetowrkLib Ecosystem] --> Families.NET(Networking)
+	Families.NET --> Families.GAMETOOLS
+	GO.NetworkLib -.-> LUA.Rubidung
+	GO.NetworkLib -.-> JAVA.Rubidung
+	GO.GOSTACK[GoStack VM] --> IS:LANG
+	GO.GOSTACK -.-> CPP.Flux
+	GO.GOSTACK -.-> CPP.salt
+	CPP.Allocator[Allocator Arena C++] --> Families.GAMETOOLS
+	CPP.Quark[Quark Engine] --> Families.GAMETOOLS
+	Families.DATATOOLS(Data Tools) --> IS:TOOL
+	LISP.COMPRESSOR[Compressor <WIP>] --> Families.DATATOOLS(Data Tools)
+	KT.TypeTransform[TypeTransform <WIP>] --> Families.DATATOOLS
+	Families.DATATOOLS --> IS:TOOL
+	MULTIPLE.GAMEJAMS[Game Jams] --> IS:GAME
+	RS.DuckCPU[Duck CPU] --> Families.ComputerInternals(Computer Internals)
+	CPP.ManaGame[Mana Game] --> IS:GAME
+	
+```
+
 ## My Stats
 ### Top Used Programming Languages!
 ![My Languages](https://github-readme-stats.shion.dev/api/top-langs/?username=Pacsfury&layout=compact&theme=radical&langs_count=20)
