@@ -23,6 +23,7 @@ I also have a bunch of active projects that I really love:
 
 ### Project Map!
 ```mermaid
+
 flowchart TD
 	C.gravel[Gravel Launcher] --> Families.GRAVEL(Gravel Family)
 	CPP.salt[Salt Scripting] --> Families.GRAVEL(Gravel Family)
@@ -62,8 +63,11 @@ flowchart TD
 	KT.TypeTransform[TypeTransform <WIP>] --> Families.DATATOOLS
 	RS.DuckCPU[Duck CPU] --> Families.ComputerInternals(Computer Internals)
 	CPP.ManaGame[Mana Game] --> IS:GAME
-	
+	JS.GravelWeb[Gravel Web] === C.gravel
+	JS.GravelWeb[Gravel Web] --> IS:WEB[(Websites)]
+	JS.HTMLEXAMPLES[HTML examples] --> IS:WEB
 ```
+
 
 ## My Stats
 ### Top Used Programming Languages!
