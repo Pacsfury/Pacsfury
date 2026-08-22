@@ -66,6 +66,7 @@ flowchart TD
 	JS.GravelWeb[Gravel Web] === C.gravel
 	JS.GravelWeb[Gravel Web] --> IS:WEB[(Websites)]
 	JS.HTMLEXAMPLES[HTML examples] --> IS:WEB
+	PY.AutoPy[AutoPy] --> IS:TOOL
 ```
 
 
