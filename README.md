@@ -68,6 +68,8 @@ flowchart TD
 	JS.HTMLEXAMPLES[HTML examples] --> IS:WEB
 	PY.AutoPy[AutoPy] --> IS:TOOL
 	PY.AutoPy -.-> C.gravel
+	CPP.arrowmadness[Arrow Madness] --> IS:GAME
+	CPP.GAMETOOLS -.-> CPP.arrowmadness
 ```
 
 
