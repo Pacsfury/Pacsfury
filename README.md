@@ -70,6 +70,7 @@ flowchart TD
 	PY.AutoPy -.-> C.gravel
 	CPP.arrowmadness[Arrow Madness] --> IS:GAME
 	CPP.GAMETOOLS -.-> CPP.arrowmadness
+	ZIG.VM[ZigVM] --> IS:LANG
 ```
 
 
