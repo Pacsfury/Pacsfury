@@ -72,7 +72,7 @@ flowchart TD
 	CPP.GAMETOOLS -.-> CPP.arrowmadness
 	ZIG.VM[ZinkVM] --> IS:LANG
 	RS.TT[TouchTrack] --> Families.CLITOOLS
-	ZIG.VM --> CPP.salt
+	ZIG.VM -.-> CPP.salt
 ```
 
 
