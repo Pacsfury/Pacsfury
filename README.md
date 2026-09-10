@@ -13,14 +13,8 @@ My top three favorite completed projects are:
 - [**RUBIDUNG**](https://github.com/Pacsfury/RUBIDUNG) - Java - A CLI memory game
 - [**CryptoLang**](https://github.com/Pacsfury/CryptoLang) - Python - A DSL for data management
 - [**Gravel Launcher**](https://github.com/Pacsfury/Gravel-Launcher) - C - The core compiler and CLI toolchain for the Gravel programming language
-
-I also have a bunch of active projects that I really love:
-
-- [**NetworkLib**](https://github.com/Pacsfury/NetworkLib-Backend) - Go (backend), multiple future clients - An easy way to develop online games and tools (highly usable)
-- [**PacsfurySpace**](https://github.com/Pacsfury/PacsfurySpace) - Web Frontend - A private, fast, vanilla workspace for daily documents
-- [**Abbocati**](https://github.com/Pacsfury/Abbocati) - GDScript (Godot Engine) - Endless runner game. *Fun fact: In Italian, "avvocati" means "lawyers", which is completely unrelated to the game!*
-- [**DuckCpu**](https://github.com/Pacsfury/DuckCpu) - Rust - A basic and lightweight CPU emulator implementing the custom P16b architecture
-
+- [**NetworkLib**](https://github.com/Pacsfury/NetworkLib-Backend) - Go (backend), multiple future clients - An easy way to develop online games and tools (highly - [**ZinkVM**](https://github.com/Pacsfury/ZinkVM) - Zig - A bytecode stack based VM with an assembler
+  
 ### Project Map!
 ```mermaid
 
