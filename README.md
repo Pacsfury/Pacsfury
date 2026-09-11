@@ -10,8 +10,6 @@ I love creating my own systems so they fit my needs. I like making and designing
 
 My top three favorite completed projects are:
 
-- [**RUBIDUNG**](https://github.com/Pacsfury/RUBIDUNG) - Java - A CLI memory game
-- [**CryptoLang**](https://github.com/Pacsfury/CryptoLang) - Python - A DSL for data management
 - [**Gravel Launcher**](https://github.com/Pacsfury/Gravel-Launcher) - C - The core compiler and CLI toolchain for the Gravel programming language
 - [**NetworkLib**](https://github.com/Pacsfury/NetworkLib-Backend) - Go (backend), multiple future clients - An easy way to develop online games and tools (highly - [**ZinkVM**](https://github.com/Pacsfury/ZinkVM) - Zig - A bytecode stack based VM with an assembler
   
