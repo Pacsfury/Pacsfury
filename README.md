@@ -11,7 +11,8 @@ I love creating my own systems so they fit my needs. I like making and designing
 My top three favorite completed projects are:
 
 - [**Gravel Launcher**](https://github.com/Pacsfury/Gravel-Launcher) - C - The core compiler and CLI toolchain for the Gravel programming language
-- [**NetworkLib**](https://github.com/Pacsfury/NetworkLib-Backend) - Go (backend), multiple future clients - An easy way to develop online games and tools (highly - [**ZinkVM**](https://github.com/Pacsfury/ZinkVM) - Zig - A bytecode stack based VM with an assembler
+- [**NetworkLib**](https://github.com/Pacsfury/NetworkLib-Backend) - Go (backend), multiple future clients - An easy way to develop online games and tools (highly
+- [**ZinkVM**](https://github.com/Pacsfury/ZinkVM) - Zig - A bytecode stack based VM with an assembler
   
 ### Project Map!
 ```mermaid
