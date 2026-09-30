@@ -66,6 +66,8 @@ flowchart TD
 	ZIG.VM[ZinkVM] --> IS:LANG
 	RS.TT[TouchTrack] --> Families.CLITOOLS
 	ZIG.VM -.-> CPP.salt
+	CPP.scimulator[Scimulator] --> IS:LANG
+	CPP.scimulator --> IS:GAME
 ```
 
 
