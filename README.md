@@ -36,7 +36,6 @@ flowchart TD
 	JS.Lists[List Processor] --> Families.WEBTOOLS(Web tools)
 	JS.SPACE[PacsfurySpace] --> Families.WEBTOOLS(Web tools)
 	C.CLI-NOTES[CLI Notes] --> Families.CLITOOLS(CLI tools)
-	CPP.CLI-FILEENCODING[CLI fileencoding <WIP>] --> Families.CLITOOLS(CLI tools)
 	CPP.YARC[YARC] --> Families.CLITOOLS
 	GD.CODEEDIT[Code Edit] --> IS:TOOL[(Tools)]
 	Families.CLITOOLS --> IS:TOOL
